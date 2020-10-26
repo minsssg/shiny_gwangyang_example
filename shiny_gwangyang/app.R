@@ -10,7 +10,6 @@ library(tidyverse)
 library(RColorBrewer)
 library(highcharter)
 library(formattable)
-library(fontawesome)
 
 # shape file
 # gwangyang_si = st_read('./qgis/18.gwangyang_sigungu_sigungu_bubjeongdong.geojson')

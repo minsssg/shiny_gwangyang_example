@@ -10,6 +10,8 @@ install.packages("shinythemes")
 install.packages("leaflet")
 install.packages("sf")
 install.packages("tidyverse")
+install.packages("shinyWidgets")
+install.packages("highcharter")
 ```
 
 웹앱을 만들어주는 ```shiny```관련 패키지와 **지도**를 나타내주는 ```leaflet```패키지와 공간정보를 처리하는 ```sf(simple features)```패키지를 설치해야 합니다.
