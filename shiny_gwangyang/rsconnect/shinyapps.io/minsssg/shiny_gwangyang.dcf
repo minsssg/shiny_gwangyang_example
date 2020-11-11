@@ -5,6 +5,6 @@ account: minsssg
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2995521
-bundleId: 3730468
+bundleId: 3796344
 url: https://minsssg.shinyapps.io/shiny_gwangyang/
-when: 1602514305.79393
+when: 1603973074.44184
